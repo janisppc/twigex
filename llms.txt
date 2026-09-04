@@ -1,4 +1,4 @@
-# Cospace Twigex
+# Twigex
 
 > Self-hosted, all-in-one private digital workspace by Twigex — files, projects, chat, video, and data dashboards in one platform. Deployable via Helm chart on Kubernetes. Free Community Edition; Commercial/Organization edition adds support, customization, and complete data isolation for cloud/hybrid/on-prem.
 
